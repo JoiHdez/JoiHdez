@@ -13,7 +13,7 @@
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/user.svg" width="18"> Sobre mí
+## 👤 Sobre mí
 
 ```yaml
 nombre:      Joel Hernández
@@ -29,7 +29,7 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/briefcase.svg" width="18"> Trayectoria Profesional
+## 💼 Trayectoria Profesional
 
 | Período | Rol | Empresa / Organización |
 |---------|-----|------------------------|
@@ -41,13 +41,12 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/folder-open.svg" width="18"> Proyectos Destacados
+## 📁 Proyectos Destacados
 
 ### 🏢 Enterprise & Sector Privado
 
 | Proyecto | Stack | Año |
 |----------|-------|-----|
-| 📊 **Sistema de Seguimiento de OR** — Gestión de órdenes de trabajo, catálogos y reportería | React · Node.js · MySQL | 2026 |
 | ⛽ **Control de Gasolina GPS (Wialon)** — Monitoreo de consumo de flotillas con API GPS | React · API Wialon · Chart.js | 2025 |
 | ⚡ **Optimización de Procesos con Python** — De meses a días: limpieza de datos y automatización | Python · Pandas · NumPy | 2024–25 |
 | 🏃 **Running Tracker** — Control de carreras y estadísticas para equipos de running | Python · Django · PostgreSQL | 2025 |
@@ -65,7 +64,7 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 
 **Coordinador de TI** para grupo financiero: implementación de **Oracle NetSuite**, certificación **ISO 9001:2015**, comité de seguridad tecnológica, mesa de control de TI, gestión de infraestructura y KPIs para inversionistas. Stack: `Java` `WebObjects` `NetSuite` `AWS` `Trend Micro` `FortiGate`
 
-### 🐍 Herramientas Python de Escritorio (Proyectos propios)
+### 🐍 Herramientas Python de Escritorio
 
 | Herramienta | Descripción |
 |-------------|-------------|
@@ -77,18 +76,42 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/laptop-code.svg" width="18"> Stack Tecnológico
+## 🛠️ Stack Tecnológico
+
+### 🖥️ Desarrollo
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,angular,php,js,ts,java,python,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,aws,linux,bootstrap,vscode,django)](https://skillicons.dev)
+[![Dev Skills](https://skillicons.dev/icons?i=react,angular,php,js,ts,java,python,nodejs,mysql,django,bootstrap,git)](https://skillicons.dev)
+
+</div>
+
+### 🗂️ Gestión de Proyectos & PM
+
+<div align="center">
+
+[![PM Tools](https://skillicons.dev/icons?i=jira,notion,trello)](https://skillicons.dev)
+&nbsp;&nbsp;
+![Monday](https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-31752F?style=for-the-badge&logo=microsoftproject&logoColor=white)
+
+</div>
+
+### 🔒 Infraestructura & Seguridad
+
+<div align="center">
+
+[![Infra Skills](https://skillicons.dev/icons?i=aws,linux,github)](https://skillicons.dev)
+&nbsp;&nbsp;
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Trend Micro](https://img.shields.io/badge/Trend_Micro-D71921?style=for-the-badge&logo=trendmicro&logoColor=white)
+![NetSuite](https://img.shields.io/badge/Oracle_NetSuite-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/wrench.svg" width="18"> Servicios que ofrezco
+## 🔧 Servicios que ofrezco
 
 <div align="center">
 
@@ -103,7 +126,7 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/certificate.svg" width="18"> Certificaciones (20+)
+## 🏅 Certificaciones (20+)
 
 <div align="center">
 
@@ -115,7 +138,7 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/chart-bar.svg" width="18"> Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoiHdez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
