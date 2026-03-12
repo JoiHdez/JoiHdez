@@ -1,80 +1,125 @@
 <div align="center">
 
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/code.svg" width="28"> Joel Hernández &nbsp;·&nbsp; JoiHdez
+# Hola, soy Joel Hernández 👋
+### `Joi Code` · Full Stack Developer · Project Manager · CDMX 🇲🇽
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Entusiasta+por+las+nuevas+tecnologías+🚀;Full+Stack+Developer;Python+%7C+TypeScript+%7C+Java;Siempre+construyendo+algo+nuevo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=10%2B+años+desarrollando+soluciones+reales;Project+Manager+%7C+EUN+Creating+Smart+Spaces;Gobierno+·+Finanzas+·+Empresa+privada;Runner+%26+Tech+Enthusiast+🏃" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/JoiHdez?label=Followers&style=flat-square&color=58a6ff)](https://github.com/JoiHdez)
+[![GitHub followers](https://img.shields.io/github/followers/JoiHdez?label=Followers&style=flat-square&color=58a6ff&logo=github)](https://github.com/JoiHdez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Hernández-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-hern%C3%A1ndez-9240a495/)
 [![Profile views](https://komarev.com/ghpvc/?username=JoiHdez&color=58a6ff&style=flat-square&label=Visitas)](https://github.com/JoiHdez)
 
 </div>
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/user.svg" width="20"> Sobre mí
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/user.svg" width="18"> Sobre mí
 
 ```yaml
-nombre:     Joel Hernández
-ubicación:  México, CDMX 🇲🇽
-intereses:  Nuevas tecnologías, automatización, ML
-enfoque:    Construir herramientas útiles y reales
+nombre:      Joel Hernández
+alias:       Joi Code · JoiHdez
+ubicación:   Ciudad de México, MX 🇲🇽
+educación:   UVEG · TESE
+experiencia: 10+ años
+sectores:    Gobierno · Finanzas · Empresa Privada
+hobbies:     Running 🏃 · Tecnología · Automatización
 ```
 
-- 🔭 Trabajando en proyectos web full-stack y herramientas de escritorio en Python
-- 🌱 Explorando **Angular**, **MariaDB**, **Machine Learning**
-- 🛠️ Me gusta automatizar cosas que hacen la vida más fácil
-- 🤝 Siempre dispuesto a ayudar a mis contactos con sus problemas técnicos
+Desarrollador Full Stack con más de 10 años de experiencia construyendo soluciones para gobierno, servicios financieros y sector privado. Actualmente trabajo como **Project Manager en EUN Creating Smart Spaces** (México/Latinoamérica) y de forma paralela como **freelancer** bajo el nombre de **Joi Code / StrideCode**, donde ofrezco desarrollo a medida con portal de seguimiento para clientes.
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/laptop-code.svg" width="20"> Stack tecnológico
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/briefcase.svg" width="18"> Trayectoria Profesional
+
+| Período | Rol | Empresa / Organización |
+|---------|-----|------------------------|
+| 2024 — Actual | 🔵 **Project Manager** · México / Latinoamérica | **EUN Creating Smart Spaces** |
+| 2024 — Actual | ⚡ **Freelancer / Consultor** | **Joi Code · StrideCode** |
+| 2019 — 2024 | 🏦 **Coordinador de TI** | MNJ Capital · Breton Capital · Petrolending |
+| 2016 — 2018 | 🏛️ **Líder Coordinador de Proyectos** | Instituto Atención Adultos Mayores — Gob. CDMX |
+| 2016 | 💻 **Desarrollador Web Junior** | Warptech México S.A. de C.V. |
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/folder-open.svg" width="18"> Proyectos Destacados
+
+### 🏢 Enterprise & Sector Privado
+
+| Proyecto | Stack | Año |
+|----------|-------|-----|
+| 📊 **Sistema de Seguimiento de OR** — Gestión de órdenes de trabajo, catálogos y reportería | React · Node.js · MySQL | 2026 |
+| ⛽ **Control de Gasolina GPS (Wialon)** — Monitoreo de consumo de flotillas con API GPS | React · API Wialon · Chart.js | 2025 |
+| ⚡ **Optimización de Procesos con Python** — De meses a días: limpieza de datos y automatización | Python · Pandas · NumPy | 2024–25 |
+| 🏃 **Running Tracker** — Control de carreras y estadísticas para equipos de running | Python · Django · PostgreSQL | 2025 |
+
+### 🏛️ Gobierno (Ciudad de México)
+
+| Proyecto | Stack | Período |
+|----------|-------|---------|
+| 🗺️ **Libro de Gobierno — 84 Módulos CDMX** — Geolocalización de módulos de atención ciudadana | PHP · AngularJS · MariaDB | 2016–2018 |
+| 👥 **Sistema de Atención Ciudadana** — Centralización de servicios con informes automáticos | PHP · Silex · AngularJS · MariaDB | 2016–2018 |
+| 🗾 **Vectorización del Mapa CDMX** — Control territorial por alcaldía y sección | PHP · MySQL · Leaflet · GeoJSON | 2017 |
+| 📍 **Módulos GPS Geolocalización** — Rastreo en tiempo real con geocercas y alertas | React · APIs GPS · WebSockets | 2016–2018 |
+
+### 💼 Servicios Financieros (2019–2024)
+
+**Coordinador de TI** para grupo financiero: implementación de **Oracle NetSuite**, certificación **ISO 9001:2015**, comité de seguridad tecnológica, mesa de control de TI, gestión de infraestructura y KPIs para inversionistas. Stack: `Java` `WebObjects` `NetSuite` `AWS` `Trend Micro` `FortiGate`
+
+### 🐍 Herramientas Python de Escritorio (Proyectos propios)
+
+| Herramienta | Descripción |
+|-------------|-------------|
+| 🎥 **Screen Recorder** | Grabador pantalla + audio, multi-monitor, GUI tkinter |
+| 📄 **PDF Merger + Imágenes** | Combina PDFs e imágenes con control de calidad |
+| 🌐 **Traductor PDF con TTS** | Traduce texto y PDFs con texto a voz |
+| ✂️ **PDF Editor** | Eliminar páginas, redactar info sensible con zoom/pan |
+| 🎤 **Audio Transcriptor** | Transcripción de audios WhatsApp (.dat) con fallback de formatos |
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/laptop-code.svg" width="18"> Stack Tecnológico
 
 <div align="center">
 
-**Lenguajes**
-
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css,r)](https://skillicons.dev)
-
-**Frameworks & Herramientas**
-
-[![My Skills](https://skillicons.dev/icons?i=angular,git,github,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,php,js,ts,java,python,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github,aws,linux,bootstrap,vscode,django)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/folder-open.svg" width="20"> Proyectos destacados
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/wrench.svg" width="18"> Servicios que ofrezco
 
-### 🌐 Web & Backend
-| Proyecto | Descripción | Tech |
-|----------|-------------|------|
-| [SGP](https://github.com/JoiHdez) | Sistema web full-stack con backend/frontend y BD MariaDB | JS + MariaDB |
-| [angularCurso](https://github.com/JoiHdez/angularCurso) | Prácticas y ejercicios de Angular | TypeScript |
-| [ajaxCurso](https://github.com/JoiHdez/ajaxCurso) | Implementaciones AJAX | HTML / JS |
+<div align="center">
 
-### 🐍 Herramientas Python (Desktop)
-| Herramienta | Descripción | Librerías |
-|-------------|-------------|-----------|
-| 🎥 Screen Recorder | Grabador de pantalla + audio con GUI, soporte multi-monitor | tkinter, FFmpeg, PIL |
-| 📄 PDF Merger | Combina PDFs e imágenes en un solo documento | PyPDF2, Pillow |
-| 🌐 Traductor PDF | Traducción con texto a voz y soporte para archivos PDF | googletrans, pyttsx3, PyPDF2 |
-| ✂️ PDF Editor | Eliminar páginas, redactar información sensible con zoom/pan | PyMuPDF, pypdf |
-| 🎤 Audio Transcriptor | Transcripción de audios de WhatsApp (.dat) con fallback de formatos | FFmpeg, Opus/OGG/AAC |
+![Full Stack](https://img.shields.io/badge/💻_Desarrollo-Web_Full_Stack-58a6ff?style=flat-square)
+![Gobierno](https://img.shields.io/badge/🏛️_Sistemas-Gobierno_&_GIS-6366f1?style=flat-square)
+![GPS](https://img.shields.io/badge/📍_Geolocalización-GPS_&_Wialon-06b6d4?style=flat-square)
+![Cyber](https://img.shields.io/badge/🔒_Ciberseguridad-&_Infraestructura-ef4444?style=flat-square)
+![ERP](https://img.shields.io/badge/🏦_ERP_&_KPIs-Oracle_NetSuite-a855f7?style=flat-square)
+![Running](https://img.shields.io/badge/🏃_Tech_&_Deportes-Plataformas_Runner-10b981?style=flat-square)
 
-### ☕ Práctica de lenguajes
-| Proyecto | Tech |
-|----------|------|
-| [javaCurso](https://github.com/JoiHdez/javaCurso) | Java |
-| [rCurso](https://github.com/JoiHdez/rCurso) | R |
-| [ExamplesJava](https://github.com/JoiHdez/ExamplesJava) | Java (fork) |
+</div>
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/chart-bar.svg" width="20"> Estadísticas
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/certificate.svg" width="18"> Certificaciones (20+)
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoiHdez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiHdez&layout=compact&theme=github_dark&hide_border=true&langs_count=7"/>
+
+`ISO 9001:2015 — AENOR` `ISO 31000:2018` `Fortinet NSE 1` `Trend Micro Apex Central`
+`Scrum Profesional` `Oracle NetSuite` `JavaScript Profesional` `Java SE`
+`TypeScript` `Git & GitHub` `Kotlin` `Seguridad Informática` `Liderazgo Alta Gerencia`
+
+</div>
+
+---
+
+## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/chart-bar.svg" width="18"> Estadísticas de GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoiHdez&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoiHdez&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
@@ -83,36 +128,11 @@ enfoque:    Construir herramientas útiles y reales
 
 ---
 
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/brain.svg" width="20"> Intereses técnicos
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/GUI_Apps-Python_tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
-![Web Dev](https://img.shields.io/badge/Web-Full_Stack-DD0031?style=flat-square&logo=angular&logoColor=white)
-![ML](https://img.shields.io/badge/Explorando-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![DB](https://img.shields.io/badge/Base_de_datos-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Automation](https://img.shields.io/badge/Automatización-FFmpeg_+_PDF-red?style=flat-square&logo=ffmpeg&logoColor=white)
-
-</div>
-
----
-
-## <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/svgs/solid/wrench.svg" width="20"> Entorno de desarrollo
-
-```
-OS:          Windows
-Editor:      VS Code
-BD local:    XAMPP + MariaDB
-Control:     Git + GitHub
-Pkg manager: pip / npm / winget
-```
-
----
-
-<div align="center">
-
-**"Entusiasta por las nuevas tecnologías"** 🚀
+**"Desarrollador Full Stack · Project Manager · Runner"** 🚀
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoiHdez-181717?style=for-the-badge&logo=github)](https://github.com/JoiHdez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Hernández-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joel-hern%C3%A1ndez-9240a495/)
 
 </div>
