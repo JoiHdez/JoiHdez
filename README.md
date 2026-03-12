@@ -93,7 +93,6 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 [![PM Tools](https://skillicons.dev/icons?i=jira,notion,trello)](https://skillicons.dev)
 &nbsp;&nbsp;
 ![Monday](https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS_Project-31752F?style=for-the-badge&logo=microsoftproject&logoColor=white)
 
 </div>
 
@@ -147,6 +146,46 @@ Desarrollador Full Stack con más de 10 años de experiencia construyendo soluci
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoiHdez&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoiHdez&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoiHdez&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 💬 Frase del día
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/JoiHdez/JoiHdez/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
