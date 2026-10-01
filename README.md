@@ -64,7 +64,7 @@ Vengo del desarrollo y sigo construyendo productos propios bajo **StrideCode**. 
 | 🧭 **[StrideCode](https://stridecode.com.mx)** | Gestión de proyectos con portal de clientes, tickets con SLA, cotizador con PDF, avisos push, passkeys y verificación en dos pasos | React · Node.js · Express · MySQL · Railway |
 | 💰 **[Ochavo](https://ochavo.com.mx)** | Finanzas personales para México con asistente de IA, PWA y app Android | React · Node.js · MySQL · Railway |
 | 🗂️ **NexoCore** | CRM con módulos de RRHH, Comercial, Operaciones y Mesa de Ayuda | React · Node.js · TypeScript · MySQL |
-| 🏃 **SinaRunners** | Plataforma para un club de running integrada con Strava | React · Node.js · MySQL |
+| 🏃 **[SinaRunners](https://www.sinarunners.com/login)** | Plataforma para un club de running integrada con Strava | React · Node.js · MySQL |
 
 ### 🏢 Clientes y sector privado
 
