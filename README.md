@@ -3,7 +3,7 @@
 # Hola, soy Joel Hernández 👋
 ### `StrideCode` · Liderazgo de TI · PMO · Delivery de Software · Full Stack · CDMX 🇲🇽
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=10%2B+años+en+banca%2C+gobierno+e+industria;Equipos+de+20%2B%2C+presupuesto+y+KPIs;Migración+de+ERP+a+Oracle+NetSuite;Construyo+productos+con+IA+aplicada" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=10%2B+a%C3%B1os+en+banca%2C+gobierno+e+industria;Equipos+de+20%2B%2C+presupuesto+y+KPIs;Migraci%C3%B3n+de+ERP+a+Oracle+NetSuite;Construyo+productos+con+IA+aplicada" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joel_Hernández-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joel-hdez-cont/)
 [![StrideCode](https://img.shields.io/badge/Web-stridecode.com.mx-0f2a5a?style=flat-square&logo=googlechrome&logoColor=white)](https://stridecode.com.mx)
